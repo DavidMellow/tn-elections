@@ -1,5 +1,6 @@
 David Mellow DA2PT
 
+Tableau Link: https://public.tableau.com/profile/david.mellow#!/vizhome/TNStatewideElections2000-2018/Presidential2000-2016
 Executive Summary
 I want to look at Tennessee elections and demographics from 2000 to present (5  Presidential cycles) to see if there are noticeable trends, using both US Census and TN Secretary of State election information databases. Nationwide, women, minorities and young voters trend Democratic, but minorities and younger voters have lower participation rates. Do these trends hold for Tennessee? It’s several databases and merging and managing should be the greatest challenge.
 Motivation
