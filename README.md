@@ -26,7 +26,7 @@ Merging  the individual annual datasets into one to do timelines will be the big
 Data Sources:  
 Tennessee Election Results 2000-2019: https://sos.tn.gov/elections/results  
 Tennessee registered voters and turnout: https://sos.tn.gov/products/elections/election-statistics  
-US voter registration and participation and Tennessee county populations https://www.census.gov/topics/public-sector/voting/data/tables.All.html  
+US voter registration and participation and Tennessee county populations: https://www.census.gov/topics/public-sector/voting/data/tables.All.html  
 TN county population estimates 2010-2018: https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html#par_textimage_242301767  
 TN county population estimates 2000-2010: https://www.census.gov/data/tables/time-series/demo/popest/intercensal-2000-2010-counties.html  
 Voter Eligible Population estimates: http://www.electproject.org/home/voter-turnout/voter-turnout-data  
