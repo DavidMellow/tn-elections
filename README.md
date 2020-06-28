@@ -1,6 +1,6 @@
 David Mellow DA2PT
 
-Tableau Link: https://public.tableau.com/profile/david.mellow#!/vizhome/TNStatewideElections2000-2018/Presidential2000-2016
+Tableau Link: https://public.tableau.com/profile/david.mellow#!/vizhome/TNStatewideElections2000-2018/TNElections2000-2018
 
 Executive Summary:  
 I want to look at Tennessee elections and voter participation from 2000 to the last statewide race in 2018 (5  Presidential cycles) to see if there are noticeable trends in party preference and voter participation, using both TN Secretary of State and US Census election information databases. It’s several databases and merging and managing should be the greatest challenge.
